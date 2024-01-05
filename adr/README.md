@@ -6,4 +6,4 @@
   - ADR 3.1 Výběr typu databáze
 - ADR 4 - Infrastruktura
   - ADR 4.1 Databázový systém
-  - ADR 4.2 Message brocker
+  - ADR 4.2 Message broker
