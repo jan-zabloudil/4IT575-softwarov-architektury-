@@ -16,7 +16,7 @@ Tento repozitář obsahuje seminární práci zpracovanou pro předmět 4IT575 S
   - [ADR 1 Platformy systému](adr/1-platforms.md)
   - [ADR 2 Architektura klientské aplikace](adr/2-client.md)
   - [ADR 3 Architektura backend aplikace](adr/3-backend.md)
-    - [ADR 3.1 REST/ SOAP / GraphQL](adr/3.1-rest-soap-graphql.md)
+    - [ADR 3.1 REST / SOAP / GraphQL](adr/3.1-rest-soap-graphql.md)
     - [ADR 3.2 Výběr typu databáze](adr/3.2-db.md)
   - [ADR 4 - Infrastruktura](adr/4-infrastructure.md)
     - [ADR 4.1 Databázový systém](adr/4.1-database-system.md)
