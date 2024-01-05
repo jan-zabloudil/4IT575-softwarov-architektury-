@@ -20,7 +20,7 @@ Tento repozitář obsahuje seminární práci zpracovanou pro předmět 4IT575 S
     - [ADR 3.2 Výběr typu databáze](adr/3.2-db.md)
   - [ADR 4 - Infrastruktura](adr/4-infrastructure.md)
     - [ADR 4.1 Databázový systém](adr/4.1-database-system.md)
-    - [ADR 4.2 Message brocker](adr/4.2-message-broker.md)
+    - [ADR 4.2 Message broker](adr/4.2-message-broker.md)
 - [Pohledy](diagrams/README.md)
   - [Případy užití](diagrams/use-cases/README.md)
   - [Diagram komponent](diagrams/components/README.md)

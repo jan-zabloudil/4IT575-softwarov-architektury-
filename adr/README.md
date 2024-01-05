@@ -7,4 +7,4 @@
   - [ADR 3.2 Výběr typu databáze](3.2-db.md)
 - [ADR 4 - Infrastruktura](4-infrastructure.md)
   - [ADR 4.1 Databázový systém](4.1-database-system.md)
-  - [ADR 4.2 Message brocker](4.2-message-broker.md)
+  - [ADR 4.2 Message broker](4.2-message-broker.md)
