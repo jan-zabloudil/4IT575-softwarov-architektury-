@@ -1,1 +1,1 @@
-# 4IT575-softwarov-architektury-
+# 4IT575 Softwarové architektury - seminární práce
