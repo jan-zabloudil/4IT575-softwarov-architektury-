@@ -11,7 +11,7 @@ Tento repozitář obsahuje seminární práci zpracovanou pro předmět 4IT575 S
 
 ## Obsah
 
-- Zadání 
+- [Zadání] (assignment.md) 
 - ADR
   - ADR 1 Platformy systému
   - ADR 2 Architektura klientské aplikace
