@@ -12,15 +12,15 @@ Tento repozitář obsahuje seminární práci zpracovanou pro předmět 4IT575 S
 ## Obsah
 
 - [Zadání](assignment.md) 
-- ADR
-  - ADR 1 Platformy systému
-  - ADR 2 Architektura klientské aplikace
-  - ADR 3 Architektura backend aplikace
-    - ADR 3.1 Výběr typu databáze
-  - ADR 4 - Infrastruktura
-    - ADR 4.1 Databázový systém
-    - ADR 4.2 Message brocker
-- Pohledy
-  - Případy užití
-  - Diagram komponent
-  - Diagram nasazení
+- [ADR](/adr/README.md)
+  - [ADR 1 Platformy systému](adr/1-platforms.md)
+  - [ADR 2 Architektura klientské aplikace](adr/2-client.md)
+  - [ADR 3 Architektura backend aplikace](adr/3-backend.md)
+    - [ADR 3.1 Výběr typu databáze](adr/3.1-db.md)
+  - [ADR 4 - Infrastruktura](adr/4-infrastructure.md)
+    - [ADR 4.1 Databázový systém](adr/4.1-database-system.md)
+    - [ADR 4.2 Message brocker](adr/4.2-message-broker.md)
+- [Pohledy](diagrams/README.md)
+  - [Případy užití](diagrams/use-cases/README.md)
+  - [Diagram komponent](diagrams/components/README.md)
+  - [Diagram nasazení](diagrams/deployment/README.md)
