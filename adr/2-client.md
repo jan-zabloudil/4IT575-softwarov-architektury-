@@ -6,14 +6,25 @@
 
 ## Status 
 
-## Kontext 
+Accepted
 
-## Rozhodnutí 
+## Context 
 
-## Dopad rozhodnutí
+Na základě závěrů z ADR1 a ADR 1.1 je třeba rozhodnout, jak bude vyvíjena klientská webová aplikace. 
 
-Rychlé poznámky:
-- Zatím tedy pouze webová aplikace
-- Budeme ji vytvářet v Nuxtu
-- Framework pro vytváření webových aplikací postavený na Vue.js (Vue.js javascriptový framework, který umožňuje stavět uživatelské rozhraní)
-- Framework s bohatou funkcionalitou umějící řešit routing, data fetching (komunikaci s api), caching, deployment, testing 
+## Decision 
+
+Bylo rozhodnuto, že aplikace bude vyvíjena v technologii Nuxt.js:
+- Framework pro vytváření webových aplikací postavený na Vue.js
+- Bohatá funkcionalita:
+  - Vue.js (javascriptový framework) umožňuje vytvářet interaktivní rozhraní
+  - Routing
+  - Data fetching (komunikace se server aplikací)
+  - Caching
+  - Deployment
+  - Testings
+- Tato technologie se osvědčila při vývoji jiných projektů, naopak frontendoví vývojáři nemají zkušenosti s vývojem v Reactu či AngularuJS, které se nabízejí jako alternativy.   
+
+## Consequences
+
+Při návrhu infrastruktury vybrat platformu, která umožňuje nasazení bezproblémové nasazení Nuxt aplikací.
