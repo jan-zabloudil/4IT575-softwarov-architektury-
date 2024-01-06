@@ -22,3 +22,7 @@ Argumentovat pro:
 - neprodat žádné místo více než jednou!
 - nakupující vidí přehled zbývajících míst
 - průžné řešení
+
+
+TODO:
+- vybrat platební bránu
