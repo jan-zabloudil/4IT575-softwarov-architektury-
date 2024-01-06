@@ -1,6 +1,7 @@
 # ADR (Seznam architektonických rozhodnutí)
 
 - [ADR 1 Platformy systému](1-platforms.md)
+  - [ADR 1.1 Server-client architektura](adr/1.1-server-client.md)
 - [ADR 2 Architektura klientské aplikace](2-client.md)
 - [ADR 3 Architektura backend aplikace](3-backend.md)
   - [ADR 3.1 REST / SOAP / GraphQL](3.1-rest-soap-graphql.md)
