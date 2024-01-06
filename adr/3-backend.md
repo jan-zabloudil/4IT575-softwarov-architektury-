@@ -24,7 +24,7 @@ Aplikace musí být schopná zvládnout prudký nárůst uživatelů v konkrétn
 
 Jako vhodné byly vybrány **Událostmi řízená architektura** a **Microservice architektura**.
 
-### Událostmi řízená architektura
+## Událostmi řízená architektura
 
 Cílem aplikace je umožnit nákup vstupenek, což je jen sled událostí od výběru koncertu až po zakoupení lístků a proto byla zvolena událostmi řízená architektura, **mezi její výhody patří**
 - Asynchronní zpracování
@@ -38,7 +38,7 @@ Cílem aplikace je umožnit nákup vstupenek, což je jen sled událostí od vý
 - Horší zotavitelnost z pádu 
 - Hrozí nekonzistence dat
 
-### Microservice architektura
+## Microservice architektura
 
 Architektura oddělených služeb, které spolu komunikují přes sít pomocí nezávislých protokolů (např. HTTP). 
 
