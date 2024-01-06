@@ -6,11 +6,11 @@
 
 ## Status 
 
-## Kontext 
+## Context 
 
-## Rozhodnutí 
+## Decision 
 
-## Dopad rozhodnutí
+## Consequences
 
 Rychlé poznámky:
 - Vytváříme nový systém

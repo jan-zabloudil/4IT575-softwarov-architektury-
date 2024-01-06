@@ -8,7 +8,7 @@
   - 3. Vyberu konkrétní místa
   - 4. Vložím do košíku
 
-- Košík
+- Nákupní košík
   - Zadání fakturačních a dodacích údajů
   - Výběr typu platby
   - Zaplacení
@@ -26,7 +26,7 @@
   - Zobrazení nákupů 
   - Detail nákupu
 
-  - Administrace (administrace pro pracovníky portálu)
+- Administrace (administrace pro pracovníky portálu)
    - Více rozpracovat
    - Přidávání koncertů,...
    - Ruční stornování
