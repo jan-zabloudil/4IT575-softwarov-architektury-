@@ -6,17 +6,26 @@
 
 ## Status 
 
+Accepted
+
 ## Context 
+
+Navrhujeme nový portál pro prodej vstupenek na koncerty a potřebujeme rozhodnout, na jakých platformách budou moci uživatelé vstupenky zakoupit.
 
 ## Decision 
 
+Rozhodnutí je vyvinout prozatím pouze **webovou aplikací** a to z následujících důvodů:
+- Vytváříme zcela nový systém a chceme ověřit funkcionalitu a business model předtím, než investujeme do vytváření aplikací na více platformách.
+- Webová aplikace dává největší smysl, protože umožňuje nakoupit uživatelům vstupenky, jak z mobilního telefonu, tak z počítáče.
+- Většina uživatelů nakupuje vstupenky v jednotkách případů ročně, tudíž i sami preferují nákup z webové aplikace, protože nejsou ochotni instalovat aplikaci na své mobilní zařízení. 
+- Společnost investuje převážně do internetové reklamy propagující jednotlivé koncerty. Reklamy směřují přímo na do webové aplikace, kde je možné vstupenky zakoupit.
+
+Nicméně společnost plánuje, že pokud se funkcionalita systému osvědčí, budu vytvořena také mobilní aplikace pro operační systém Android a iOS.
+
 ## Consequences
 
-Rychlé poznámky:
-- Vytváříme nový systém
-- Víme, že bude mít hodně uživatelů
-- Ale ze začátku nemáme v budgetu vytvářen více aplikací - jen webovou
-- Client vs Server
-- Víme, že později budeme vytvářet další aplikace
-- Navíc oddělení klient a server části nám umožní jednodušší a efektivnější vývoj, aplikace se lépe udržují
-- Můžu využít frontend frameworky jako Vue.js či React
+Nákup vstupenek na koncert je poměrně jednoduchá operace a velká část uživatelů tak bude využívat aplikaci na svém mobilním zařízení, je tedy třeba brát v potaz následující:
+- Aplikace musí mít responzivní design a být dostatečně interaktivní.
+- Aplikace musí být optimalizovaná pro použití na mobilních telefonech se slabším připojením. Je třeba dbát na rychlost aplikace a datovou náročnost (optimalizace multimediálního obsahu apod.).
+
+Je třeba navrhnout takovou architekturu, aby bylo možné v budoucnu implementovat mobilní aplikaci.
