@@ -10,3 +10,4 @@
   - [ADR 3.4 Platební systém](3.4-payment.md)
   - [ADR 3.5 Message broker](3.5-message-broker.md)
 - [ADR 4 - Infrastruktura](4-infrastructure.md)
+- [ADR 5 - Důležité vlastnosti systému](adr/5-important-decisions.md)
