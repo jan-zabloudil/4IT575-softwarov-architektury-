@@ -24,3 +24,7 @@ Tento repozitář obsahuje seminární práci zpracovanou pro předmět 4IT575 S
     - [ADR 3.5 Message broker](adr/3.5-message-broker.md)
   - [ADR 4 - Infrastruktura](adr/4-infrastructure.md)
   - [ADR 5 - Důležité vlastnosti systému](adr/5-important-decisions.md)
+- [Diagramy](diagrams/README.md)
+  - [Případy užití](diagrams/use-cases/README.md)
+  - [Diagram komponent](diagrams/components/README.md)
+  - [Diagram nasazení](diagrams/deployment/README.md)
