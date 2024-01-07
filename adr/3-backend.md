@@ -25,7 +25,7 @@ Aplikace musí být schopná zvládnout prudký nárůst uživatelů v konkrétn
 Jako vhodné byly vybrány [**Událostmi řízená architektura**](architectures-eda.md) a [**Microservice architektura**](architectures-microservice.md).
 
 > [!IMPORTANT]
-> Bylo rozhodnuto více rozpracovat **událostmi řízenou architekturu** a to z následujících důvodů:
+> Bylo rozhodnuto více rozpracovat **Událostmi řízenou architekturu** a to z následujících důvodů:
 > - Aplikace nevyžaduje tak rozlišnou míru funkcionality, aby byl plně využit potenciál mikroslužeb.
 > - Událostmi řízená architektura je výkonnější a umožňuje dobře implementovat asynchronní chování.
 > - Obě architektury jsou komplexní a vyžadují správnou implementaci, aby nedošlo k narušení integrace dat.
