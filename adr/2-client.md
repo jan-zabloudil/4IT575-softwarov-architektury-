@@ -14,7 +14,7 @@ Na základě závěrů z [ADR 1](1-platforms.md) a [ADR 1.1](1.1-server-client.m
 
 ## Decision 
 
-Bylo rozhodnuto, že aplikace bude vyvíjena v technologii Nuxt.js:
+Bylo rozhodnuto, že aplikace bude vyvíjena v **technologii Nuxt.js**:
 - Framework pro vytváření webových aplikací postavený na Vue.js
 - Bohatá funkcionalita:
   - Vue.js (javascriptový framework) umožňuje vytvářet interaktivní rozhraní,
