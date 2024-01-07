@@ -10,12 +10,12 @@ Accepted
 
 ## Context 
 
-Jako klíčové vlastnosti systému byly definovány následujcí vlastnosti:
+Jako klíčové byby definovány následující vlastnosti systému:
 - Umožnit souběžný nákup vstupenek.
 - Neprodat žádné místo více než jednou.
 - Nakupující vidí přehled zbývajících míst.
 
- Je třeba rozhodnout, jak bude zajištěno, aby těmito vlastnosti systém skutečně disponoval. 
+Je třeba rozhodnout, jak bude zajištěno, aby těmito vlastnosti systém skutečně disponoval. 
 
 ## Decision 
 
