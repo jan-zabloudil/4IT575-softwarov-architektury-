@@ -10,31 +10,31 @@ Accepted
 
 ## Context 
 
-Na základě závěrů ADR 1 a ADR 1.1 je třeba zvolit architekturu pro serverovou (backendovou) aplikaci.
+Na základě závěrů ADR 1 a ADR 1.1 je třeba zvolit architekturu pro serverovou (backend) aplikaci.
 
 ## Decision  
 
 Při výběru architektury byly jako klíčové určeny následující vlastnosti:
-- Škálovatelnost
-- Elasticita
-- Odolnost vůči chybám
-- Výkonnost
+- škálovatelnost,
+- elasticita,
+- odolnost vůči chybám,
+- výkonnost.
 
-Aplikace musí být schopná zvládnout prudký nárůst uživatelů v konkrétních časových úsecích (např. při zahájení prodeje listků na očekáváný koncert), při takových situacích musí být výkonná a odolná vůči chybám. Některé události je třeba zpracovat okamžitě (např. označení určitého místa za koupené), naopak i jiných událostí může dojít k prodlení (odeslání potvrzovacího emailu).
+Aplikace musí být schopná zvládnout prudký nárůst uživatelů v konkrétních časových úsecích (např. při zahájení prodeje listků na očekáváný koncert), při takových situacích musí být výkonná a odolná vůči chybám. Některé události je třeba zpracovat okamžitě (např. označení určitého místa za koupené), naopak u jiných událostí může dojít k prodlení (odeslání potvrzovacího emailu).
 
 Jako vhodné byly vybrány [**Událostmi řízená architektura**](architectures-eda.md) a [**Microservice architektura**](architectures-microservice.md).
 
 > [!IMPORTANT]
 > Bylo rozhodnuto více rozpracovat **událostmi řízenou architekturu** a to z následujících důvodů:
-> - Aplikace nevyžaduje tak rozlišnou míru funkcionality, aby byl plně využit potenciál microslužeb
-> - Událostmi řízená architektura je výkonnější a umožňuje dobře implementovat asynchronní chování
+> - Aplikace nevyžaduje tak rozlišnou míru funkcionality, aby byl plně využit potenciál mikroslužeb.
+> - Událostmi řízená architektura je výkonnější a umožňuje dobře implementovat asynchronní chování.
 > - Obě architektury jsou komplexní a vyžadují správnou implementaci, aby nedošlo k narušení integrace dat.
 
 ## Consequences
 
 **Integrita dat a zpracování chyb**
 - Při implementaci klást důraz na schopnost udržet integritu dat a zpracování chyb, protože tyto činnosti mohou být slabým místem architektury.
-- Důležitost monitoringu a logování chyb
+- Důležitost monitoringu a logování chyb.
 
 **Message broker**
 - Je třeba zvolit message broker, který bude mít na starost řízení událostí.
