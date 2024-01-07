@@ -17,14 +17,15 @@ Na základě závěrů z ADR1 a ADR 1.1 je třeba rozhodnout, jak bude vyvíjena
 Bylo rozhodnuto, že aplikace bude vyvíjena v technologii Nuxt.js:
 - Framework pro vytváření webových aplikací postavený na Vue.js
 - Bohatá funkcionalita:
-  - Vue.js (javascriptový framework) umožňuje vytvářet interaktivní rozhraní
-  - Routing
-  - Data fetching (komunikace se server aplikací)
-  - Caching
-  - Deployment
-  - Testings
-- Tato technologie se osvědčila při vývoji jiných projektů, naopak frontendoví vývojáři nemají zkušenosti s vývojem v Reactu či AngularuJS, které se nabízejí jako alternativy.   
+  - Vue.js (javascriptový framework) umožňuje vytvářet interaktivní rozhraní,
+  - routing,
+  - data fetching (komunikace se server aplikací),
+  - caching,
+  - deployment,
+  - testings.
+
+Tato technologie se osvědčila při vývoji jiných projektů, naopak frontendoví vývojáři nemají zkušenosti s vývojem s využitím knihovny React či frameworku AngularJS, které se nabízejí jako alternativy.   
 
 ## Consequences
 
-Při návrhu infrastruktury vybrat platformu, která umožňuje nasazení bezproblémové nasazení Nuxt aplikací.
+Při návrhu infrastruktury je potřeba vybrat platformu, která umožňuje nasazení bezproblémové nasazení Nuxt aplikací.
