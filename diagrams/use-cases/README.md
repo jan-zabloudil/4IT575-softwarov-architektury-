@@ -35,4 +35,6 @@
     - Vytvoření účtu pracovníka
     - Přiřazení práv
     - ...
+
+    ### [Zpět na obsah](../../README.md#obsah)
   

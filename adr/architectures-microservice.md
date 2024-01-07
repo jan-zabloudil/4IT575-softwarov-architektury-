@@ -14,3 +14,5 @@ Architektura oddělených služeb, které spolu komunikují přes sít pomocí n
 - Nižší celkový výkon (komunikace přes síť).
 - Hrozí ztráta integrace dat.
 - Komplexní a nákladná implementace.
+
+### [Zpět na obsah](../README.md#obsah)

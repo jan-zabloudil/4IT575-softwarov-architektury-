@@ -38,3 +38,5 @@ Jako vhodné byly vybrány [**Událostmi řízená architektura**](architectures
 
 **Message broker**
 - Je třeba zvolit message broker, který bude mít na starost řízení událostí.
+
+### [Zpět na obsah](../README.md#obsah)

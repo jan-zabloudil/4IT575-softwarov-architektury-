@@ -30,3 +30,5 @@ Chování systému v kontextu výše zmíněných vlastnosti bylo definováno n�
   - Aktualizace pohledu s přehledem dostupných vstupenek.
   - Akce jako odeslání potvrzovacího e-mailu mohou byt zpracovány asynchronně s větším odstupem.
 - Pokud by nedošlo k úspěšnému zpracování události rezervace či nákupu vstupenky, systém chyby detekuje a ihned upozorní administrátory systému. 
+
+### [Zpět na obsah](../README.md#obsah)

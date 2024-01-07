@@ -11,3 +11,5 @@ Cílem aplikace je umožnit nákup vstupenek, což je sled událostí od výběr
 - zpracování chyb,
 - horší zotavitelnost z pádu,
 - hrozí nekonzistence dat.
+
+### [Zpět na obsah](../README.md#obsah)
