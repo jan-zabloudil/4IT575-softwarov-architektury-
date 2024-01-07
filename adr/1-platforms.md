@@ -30,4 +30,4 @@ Nákup vstupenek na koncert je poměrně jednoduchá operace, a velká část u�
 
 Je třeba navrhnout takovou architekturu, aby bylo možné v budoucnu implementovat mobilní aplikaci.
 
-###[Zpět na obsah](../README.md#obsah)
+### [Zpět na obsah](../README.md#obsah)
