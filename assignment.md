@@ -11,3 +11,5 @@ Tisíce souběžných uživatelů, nárazy až 10 000 uživatelů za sekundu př
 - Umožnit souběžný nákup vstupenek
 - Neprodat žádné místo více než jednou!
 - Nakupující vidí přehled zbývajících míst
+
+### [Zpět na obsah](../README.md#obsah)
