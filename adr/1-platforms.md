@@ -29,3 +29,5 @@ Nákup vstupenek na koncert je poměrně jednoduchá operace, a velká část u�
 - Aplikace musí být optimalizovaná pro použití na mobilních telefonech se slabším připojením. Je třeba dbát na rychlost aplikace a datovou náročnost (optimalizace multimediálního obsahu apod.).
 
 Je třeba navrhnout takovou architekturu, aby bylo možné v budoucnu implementovat mobilní aplikaci.
+
+[###Zpět na obsah###](../README.md#obsah)
