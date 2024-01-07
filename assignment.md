@@ -12,4 +12,4 @@ Tisíce souběžných uživatelů, nárazy až 10 000 uživatelů za sekundu př
 - Neprodat žádné místo více než jednou!
 - Nakupující vidí přehled zbývajících míst
 
-### [Zpět na obsah](../README.md#obsah)
+### [Zpět na obsah](README.md#obsah)
