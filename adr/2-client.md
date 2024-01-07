@@ -10,7 +10,7 @@ Accepted
 
 ## Context 
 
-Na základě závěrů z ADR1 a ADR 1.1 je třeba rozhodnout, jak bude vyvíjena klientská webová aplikace. 
+Na základě závěrů z [ADR 1](1-platforms.md) a [ADR 1.1](1.1-server-client.md) je třeba rozhodnout, jak bude vyvíjena klientská webová aplikace. 
 
 ## Decision 
 

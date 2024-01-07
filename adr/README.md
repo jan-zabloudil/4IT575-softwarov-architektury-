@@ -6,7 +6,7 @@
 - [ADR 3 Architektura backend aplikace](3-backend.md)
   - [ADR 3.1 REST / SOAP / GraphQL](3.1-rest-soap-graphql.md)
   - [ADR 3.2 Výběr typu databáze](3.2-db.md)
-  - [ADR 3.3 Databázový systém](3.3-database-system.md)
+  - [ADR 3.3 Výběr databázového systému](3.3-database-system.md)
   - [ADR 3.4 Platební systém](3.4-payment.md)
   - [ADR 3.5 Message broker](3.5-message-broker.md)
 - [ADR 4 - Infrastruktura](4-infrastructure.md)

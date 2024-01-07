@@ -10,7 +10,7 @@ Accepted
 
 ## Context 
 
-Na základě závěrů ADR 1 a ADR 1.1 je třeba zvolit architekturu pro serverovou (backend) aplikaci.
+Na základě závěrů [ADR 1](1-platforms.md) a [ADR 1.1](1.1-server-client.md) je třeba zvolit architekturu pro serverovou (backend) aplikaci.
 
 ## Decision  
 

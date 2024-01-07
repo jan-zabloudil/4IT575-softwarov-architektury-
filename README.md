@@ -19,7 +19,7 @@ Tento repozitář obsahuje seminární práci zpracovanou pro předmět 4IT575 S
   - [ADR 3 Architektura backend aplikace](adr/3-backend.md)
     - [ADR 3.1 REST / SOAP / GraphQL](adr/3.1-rest-soap-graphql.md)
     - [ADR 3.2 Výběr typu databáze](adr/3.2-db.md)
-    - [ADR 3.3 Databázový systém](adr/3.3-database-system.md)
+    - [ADR 3.3 Výběr databázového systému](adr/3.3-database-system.md)
     - [ADR 3.4 Platební systém](adr/3.4-payment.md)
     - [ADR 3.5 Message broker](adr/3.5-message-broker.md)
   - [ADR 4 - Infrastruktura](adr/4-infrastructure.md)
