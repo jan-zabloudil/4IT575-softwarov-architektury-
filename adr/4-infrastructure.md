@@ -30,5 +30,6 @@ Vzhledem k tomu, že systém musí být schopný zvládnout prudký nárůst už
 ## Consequences
 
 Je třeba navrhnout celé DevOps workflow.
+Vzniká závislost na konkrétním cloudovém poskytovateli. Pokud v budoucnu vznikne potřeba migrace na on-premise řešení, bude se jednat o náročnou operaci.
 
 ### [Zpět na obsah](../README.md#obsah)

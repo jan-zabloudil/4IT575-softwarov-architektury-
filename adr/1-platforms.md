@@ -26,6 +26,7 @@ Nicméně společnost plánuje, že pokud se funkcionalita systému osvědčí, 
 
 Nákup vstupenek na koncert je poměrně jednoduchá operace, a velká část uživatelů tak bude využívat aplikaci na svém mobilním zařízení, je tedy třeba brát v potaz následující:
 - Aplikace musí mít responzivní design a být dostatečně interaktivní.
+- Aplikace musí splňovat standardy přístupnosti a sémantiky, aby byla dostupná co nejširší skupině uživatelů a nebyla penalizována internetovými vyhledávači.
 - Aplikace musí být optimalizovaná pro použití na mobilních telefonech se slabším připojením. Je třeba dbát na rychlost aplikace a datovou náročnost (optimalizace multimediálního obsahu apod.).
 
 Je třeba navrhnout takovou architekturu, aby bylo možné v budoucnu implementovat mobilní aplikaci.
