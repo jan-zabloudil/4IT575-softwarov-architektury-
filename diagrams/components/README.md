@@ -1,7 +1,5 @@
 # Diagramy komponent
 
-## Obsah
-
 - [Hlavní diagram](#hlavní-diagram)
 - [Diagram vyhledávání koncertu](#diagram-vyhledávání-koncertu)
 - [Diagram nákupního procesu](#diagram-nákupního-procesu)

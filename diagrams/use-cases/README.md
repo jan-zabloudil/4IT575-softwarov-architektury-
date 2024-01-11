@@ -1,7 +1,5 @@
 # Případy užití
 
-## Obsah
-
 - [Hlavní případ užití](#hlavní-případ-užití)
 - [Nákup vstupenek](#nákup-vstupenek)
 
