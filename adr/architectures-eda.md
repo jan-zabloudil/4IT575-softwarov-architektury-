@@ -3,7 +3,7 @@
 Cílem aplikace je umožnit nákup vstupenek, což je sled událostí od výběru koncertu až po zakoupení lístků, a proto byla zvolena událostmi řízená architektura, **mezi její výhody patří:**
 - asynchronní zpracování,
 - škálovatelnost,
-- výkonnost
+- výkonnost,
 - odolnost vůči chybám.
 
 **Nevýhody architektury:**

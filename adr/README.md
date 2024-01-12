@@ -1,4 +1,4 @@
-# ADR (Seznam architektonických rozhodnutí)
+# ADR (seznam architektonických rozhodnutí)
 
 - [ADR 1 Platformy systému](1-platforms.md)
   - [ADR 1.1 Client-server architektura](1.1-server-client.md)
@@ -10,6 +10,6 @@
   - [ADR 3.4 Platební systém](3.4-payment.md)
   - [ADR 3.5 Message broker](3.5-message-broker.md)
 - [ADR 4 - Infrastruktura](4-infrastructure.md)
-- [ADR 5 - Důležité vlastnosti systému](adr/5-important-decisions.md)
+- [ADR 5 - Důležité vlastnosti systému](5-important-decisions.md)
 
 ### [Zpět na obsah](../README.md#obsah)

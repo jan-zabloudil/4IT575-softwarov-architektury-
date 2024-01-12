@@ -28,6 +28,6 @@ Tato technologie se osvědčila při vývoji jiných projektů, naopak frontendo
 
 ## Consequences
 
-Při návrhu infrastruktury je potřeba vybrat platformu, která umožňuje nasazení bezproblémové nasazení Nuxt aplikací.
+Při návrhu infrastruktury je potřeba vybrat platformu, která umožňuje bezproblémové nasazení Nuxt aplikací.
 
 ### [Zpět na obsah](../README.md#obsah)
