@@ -28,7 +28,7 @@ Chování systému v kontextu výše zmíněných vlastnosti bylo definováno n�
 - Aby byl schopný systém obsloužit najednou velké množství uživatelů, byla zvolena architektura s asynchronním zpracováním události - viz [ADR 3](../adr/3-backend.md).
 - Události **rezervace a nákupu vstupenky jsou v systému zpracovány přednostně a mají největší prioritu**, tak aby byla dostupnost vstupenek vždy aktuální.
 - Prioritně nejsou zpracovány všechny události nákupu a rezervace vstupenek, ale pouze následující:
-  - Označení vstupenky jako rezervované/prodané/opět dostupné v databází. 
+  - Označení vstupenky jako rezervované/prodané/opět dostupné. 
   - Aktualizace pohledu s přehledem dostupných vstupenek.
   - Akce jako odeslání potvrzovacího e-mailu mohou byt zpracovány asynchronně s větším odstupem.
 - Pokud by nedošlo k úspěšnému zpracování události rezervace či nákupu vstupenky, systém chyby detekuje a ihned upozorní administrátory systému. 
